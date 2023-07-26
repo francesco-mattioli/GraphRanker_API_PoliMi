@@ -8,5 +8,5 @@ The ranking metric is defined by the sum of all minimum paths between node 0 and
 
 You can find the project’s presentation [here](https://github.com/francesco-mattioli/PFAPI21_Mattioli_10701389/blob/main/Slide%20Presentazione%20Prova%20Finale%20A.A.%202020-2021.pdf).
 
-#### Programming Language
+### Programming Language
 This is a C project.
