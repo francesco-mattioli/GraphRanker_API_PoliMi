@@ -1,8 +1,9 @@
+# GraphRanker-API
+
 <p align="center">
   <img width="100%" src="https://www.symbola.net/wp-content/uploads/2020/07/Polimi.jpg" alt="header" />
 </p>
 
-# GraphRanker-API
 ## Project Assignment
 The assignment consists of writing a C program that manages a ranking of 
 [weighted](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)#Weighted_graph) 
